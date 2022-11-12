@@ -8,7 +8,7 @@ I'm a MERN stack software engineer with 2+ years of experience in backend and fr
 
 * 🌍  I'm based in Playa del Carmen, Mexico
 * ✉️  You can contact me at [elenashatalova.it@gmail.com](mailto:elenashatalova.it@gmail.com)
-* 🚀  I'm currently working on [DeFi DApp DBANK on ICP using Motoko](http://khnm5-qiaaa-aaaap-aam6a-cai.ic0.ap](https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/)
+* 🚀  I'm currently working on [DeFi DApp DBANK on ICP using Motoko](https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/)
 * 🧠  I'm learning Python; Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Projects that will help me to expand my skill set and help me to grow in my current role.
 * ⚡  If you type 'Google' into Google, you can break the internet. So please, no one try it, even for a joke. (c)
