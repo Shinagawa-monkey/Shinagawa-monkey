@@ -42,9 +42,9 @@ I'm a MERN stack software engineer with 2+ years of experience in backend and fr
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <br/> -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,ruby,git,html,css,jquery,react,redux,webpack,babel,vite,bootstrap,sass,nodejs,express,mongo,mysql,postgres,firebase,heroku,figma,pug,svg,bash,powershell,postman&perline=9" />
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,php,ruby,git,html,css,jquery,react,redux,webpack,babel,vite,bootstrap,sass,nodejs,express,mongo,mysql,postgres,firebase,heroku,figma,pug,svg,bash,powershell,postman&perline=9" />
+  </a>
 </p>
 
 
