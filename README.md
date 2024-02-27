@@ -1,8 +1,7 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <div>
-    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="256" style="position: absolute; top: 20px; right: 20px;" />
-    <h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" /> My name is Elena Shatalova</h1>
-    <h2>Full Stack Software Engineer</h2>
+    <h1 style="margin-bottom: 0;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" /> My name is Elena Shatalova</h1>
+    <h2 style="margin-top: 0;">Full Stack Software Engineer</h2>
     <p>I'm a MERN stack software engineer with 2+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.</p>
     <ul>
       <li>🌍 I'm based in Playa del Carmen, Mexico</li>
@@ -12,6 +11,9 @@
       <li>🤝 I'm open to collaborating on Projects that will help me to expand my skill set and help me to grow in my current role.</li>
       <li>⚡ If you type 'Google' into Google, you can break the internet. So please, no one try it, even for a joke. (c)</li>
     </ul>
+  </div>
+  <div style="margin-left: auto;">
+    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="256" style="margin-left: auto;" />
   </div>
 </div>
 
@@ -41,7 +43,6 @@
 
 <a href="http://www.github.com/Shinagawa-monkey"><img src="https://github-readme-stats.vercel.app/api?username=Shinagawa-monkey&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shinagawa-monkey's GitHub stats" /></a>
 <a href="http://www.github.com/Shinagawa-monkey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinagawa-monkey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<!-- <a href="http://www.github.com/Shinagawa-monkey"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shinagawa-monkey&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&radius=8&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 <a href="https://github.com/Shinagawa-monkey"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinagawa-monkey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### 🙊A little laughter for you
