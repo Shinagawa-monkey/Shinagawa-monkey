@@ -12,8 +12,8 @@
       <li>⚡ If you type 'Google' into Google, you can break the internet. So please, no one try it, even for a joke. (c)</li>
     </ul>
   </div>
-  <div style="margin-left: auto;">
-    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="256" style="margin-left: auto;" />
+  <div style="position: absolute; top: 0; right: 0;">
+    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="256" />
   </div>
 </div>
 
