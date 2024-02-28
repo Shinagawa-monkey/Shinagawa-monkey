@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <div>
+  <div style="dispaly: inline-block;">
     <h1 style="margin-bottom: 0;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" /> My name is Elena Shatalova</h1>
     <h2 style="margin-top: 0;">Full Stack Software Engineer</h2>
   </div>
