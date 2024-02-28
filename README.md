@@ -3,8 +3,9 @@
     <h2>Full Stack Software Engineer</h2>
     <p> 
       <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="256" />
-      I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box. ✉️ You can contact me at [elenashatalova.it@gmail.com](mailto:elenashatalova.it@gmail.com)
+      I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.
     </p>
+    ✉️ You can contact me at [elenashatalova.it@gmail.com](mailto:elenashatalova.it@gmail.com)
     <ul>
       <li>🌍 I'm based in Playa del Carmen, Mexico</li>
       <li>✉️ You can contact me at <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
