@@ -47,7 +47,7 @@
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <br/> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,ruby,git,html,css,jquery,react,redux,webpack,babel,vite,bootstrap,sass,tailwind,nodejs,express,mongo,mysql,postgres,firebase,heroku,figma,pug,svg,bash,powershell,postman&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,php,ruby,git,html,css,jquery,react,redux,webpack,babel,vite,bootstrap,sass,tailwind,nodejs,express,mongo,mysql,postgres,firebase,heroku,figma,pug,svg,bash,powershell,postman&perline=10" />
   </a>
 </p>
 
