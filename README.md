@@ -1,7 +1,10 @@
 <div style="display: flex; align-items: center;">
-    <h1 style="margin-bottom: 0;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" /> My name is Elena Shatalova <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="256" /></h1>
-    <h2 style="border-bottom: none;">Full Stack Software Engineer</h2>
-    <p>I'm a MERN stack software engineer with 2+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.</p>
+  <div>
+    <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" /> My name is AAAAAAAAAAA</h1>
+    <h2>Full Stack Software Engineer</h2>
+    <p>
+      I'm a MERN stack software engineer with 2+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.
+    </p>
     <ul>
       <li>🌍I'm based in Playa del Carmen, Mexico</li>
       <li>✉️You can contact me at <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
@@ -10,6 +13,8 @@
       <li>🤝I'm open to collaborating on Projects that will help me to expand my skill set and help me to grow in my current role.</li>
       <li>⚡If you type 'Google' into Google, you can break the internet. So please, no one try it, even for a joke. (c)</li>
   </ul>
+ </div>
+  <img src="https://github.com/Shinagawa-monkey/AAAAAAAAAAA/blob/main/octocat.png" align="right" width="256" style="margin-left: 20px;" />
 </div>
 
 
