@@ -1,5 +1,6 @@
-<h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" /> My name is Elena Shatalova <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="256"/></h1>
-<h2 style="border-bottom-style: none;">Full Stack Software Engineer</h2>
+<h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" /> My name is Elena Shatalova</h1>
+<h2>Full Stack Software Engineer</h2>
+<img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="256"/>
 
 I'm a MERN stack software engineer with 2+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.
 
