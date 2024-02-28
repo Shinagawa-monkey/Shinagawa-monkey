@@ -1,5 +1,6 @@
 <div style="display: flex; align-items: center;">
   <div>
+    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="256" style="margin-left: auto;" />
     <h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" /> My name is Elena Shatalova</h1>
     <h2>Full Stack Software Engineer</h2>
     <p>
@@ -14,7 +15,7 @@
       <li>⚡ If you type 'Google' into Google, you can break the internet. So please, no one try it, even for a joke. (c)</li>
     </ul>
   </div>
-  <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="256" style="margin-left: auto;" />
+<!--   <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="256" style="margin-left: auto;" /> -->
 </div>
 
 ### Skills
