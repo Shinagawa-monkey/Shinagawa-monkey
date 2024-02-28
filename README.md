@@ -8,6 +8,7 @@
     <ul>
       <li>🌍 I'm based in Playa del Carmen, Mexico</li>
       <li>✉️ You can contact me at <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
+      <li>✉️ You can contact me at [elenashatalova.it@gmail.com](mailto:elenashatalova.it@gmail.com)</li>
       <li>🚀 I'm currently working on <a href="https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/">DeFi DApp DBANK on ICP using Motoko</a></li>
       <li>🧠 I'm learning Python; Data Structures and Algorithms</li>
       <li>🤝 I'm open to collaborating on Projects that will help me to expand my skill set and help me to grow in my current role.</li>
