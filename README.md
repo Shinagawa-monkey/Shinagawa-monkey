@@ -1,7 +1,7 @@
 <h1 style="text-wrap: balance;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
 <h2 style="text-wrap: balance;">Full Stack Software Engineer</h2>
 
-<img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="300"/> 
+<img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="300" style="display: block;"/> 
 <p style="text-wrap: pretty;">I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 I'm based in Playa del Carmen, Mexico</li>
