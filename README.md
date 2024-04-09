@@ -1,18 +1,20 @@
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(256px, 1fr)); gap: 20px;">
+  <div>
     <h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
     <h2>Full Stack Software Engineer</h2>
-    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" style="float: left; margin-right: 10px; width: 256px;" /> 
-    <p style="flex: 1;">
-        I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.
+    <p style="text-wrap: pretty;">
+      I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.
     </p>
-    <ul style="flex: 1;">
-        <li>🌍 I'm based in Playa del Carmen, Mexico</li>
-        <li>✉️ You can contact me at <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
-        <li>🚀 I'm currently working on <a href="https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/">DeFi DApp DBANK on ICP using Motoko</a></li>
-        <li>🧠 I'm learning Python; Data Structures and Algorithms</li>
-        <li>🤝 I'm open to collaborating on Projects that will help me to expand my skill set and help me to grow in my current role.</li>
-        <li>⚡ If you type 'Google' into Google, you can break the internet. So please, no one try it, even for a joke. (c)</li>
+    <ul style="text-wrap: pretty;">
+      <li>🌍 I'm based in Playa del Carmen, Mexico</li>
+      <li>✉️ You can contact me at <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
+      <li>🚀 I'm currently working on <a href="https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/">DeFi DApp DBANK on ICP using Motoko</a></li>
+      <li>🧠 I'm learning Python; Data Structures and Algorithms</li>
+      <li>🤝 I'm open to collaborating on Projects that will help me to expand my skill set and help me to grow in my current role.</li>
+      <li>⚡ If you type 'Google' into Google, you can break the internet. So please, no one try it, even for a joke. (c)</li>
     </ul>
+  </div>
+  <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="100%" style="max-width: 256px; margin-bottom: 20px;" />
 </div>
 
 ### Skills
