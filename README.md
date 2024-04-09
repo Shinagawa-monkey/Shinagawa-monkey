@@ -8,7 +8,7 @@
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="100%" style="max-width: 256px; margin-bottom: 20px;" />
+    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" style="max-width: 256px; margin-bottom: 20px;" />
   </div>
 </div>
   <ul style="text-wrap: pretty;">
