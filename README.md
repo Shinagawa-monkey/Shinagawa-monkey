@@ -5,7 +5,7 @@
     <p style="text-wrap: pretty;">
       I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.
     </p>
-    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="100%" style="max-width: 256px; margin-bottom: 20px;" />
+    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" width="256" style="max-width: 100%; margin-bottom: 20px;" />
 </div>
     <ul style="text-wrap: pretty;">
       <li>🌍 I'm based in Playa del Carmen, Mexico</li>
