@@ -11,7 +11,7 @@
       </p>
     </div>
   </div>
-  <ul>
+  <ul style="text-wrap: pretty;">
     <li>🌍 I'm based in Playa del Carmen, Mexico</li>
     <li>✉️ You can contact me at <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
     <li>🚀 I'm currently working on <a href="https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/">DeFi DApp DBANK on ICP using Motoko</a></li>
