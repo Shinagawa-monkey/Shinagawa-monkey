@@ -1,12 +1,10 @@
-<div style="display: flex; align-items: center;">
-    <h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
-    <h2>Full Stack Software Engineer</h2>
-    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="256" /> 
-    <p> 
-<!--       <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="256" />  -->
-      I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.
-    </p>
-    <ul>
+<h1 style="text-wrap: balance;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
+<h2 style="text-wrap: balance;">Full Stack Software Engineer</h2>
+<div style="display: flex;">
+    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="350" /> 
+    <p style="text-wrap: pretty;" min-width="500">I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.</p>
+</div>
+    <ul style="text-wrap: pretty;">
       <li>🌍 I'm based in Playa del Carmen, Mexico</li>
       <li>✉️ You can contact me at <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
       <li>🚀 I'm currently working on <a href="https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/">DeFi DApp DBANK on ICP using Motoko</a></li>
@@ -14,7 +12,6 @@
       <li>🤝 I'm open to collaborating on Projects that will help me to expand my skill set and help me to grow in my current role.</li>
       <li>⚡ If you type 'Google' into Google, you can break the internet. So please, no one try it, even for a joke. (c)</li>
     </ul>
-</div>
 
 ### Skills
 
