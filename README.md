@@ -3,6 +3,7 @@
     <h2>Full Stack Software Engineer</h2>
     <p> 
       <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="256" />
+        
       I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.
     </p>
     <ul>
