@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
     <h2>Full Stack Software Engineer</h2>
-    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" style="float: right; margin-left: 10px;" width="256" /> 
+    <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" style="float: left; margin-right: 10px; width: 256px;" /> 
     <p style="flex: 1;">
         I'm a MERN stack software engineer with 3+ years of experience in backend and frontend development. I am working on some side projects, continuously learning new languages and technologies. Able and willing to think outside the box.
     </p>
