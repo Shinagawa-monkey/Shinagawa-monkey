@@ -2,9 +2,8 @@
 <h2 style="text-wrap: balance;">Full Stack Software Engineer</h2>
 
 <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" /> 
-<p style="text-wrap: pretty;">I'm a passionate MERN stack software engineer with 4+ years of experience crafting robust backend and user-friendly frontend solutions. Currently diving into exciting side projects and constantly expanding my tech toolkit. Able and willing to think outside the box.</p>
+<p style="text-wrap: pretty;">I'm a passionate MERN stack software engineer with 4+ years of experience crafting robust backend and user-friendly frontend solutions. Currently exploring exciting side projects and constantly expanding my tech toolkit. Let's collaborate and create something extraordinary together!</p>
 <p>💻 My journey into tech started from a background in linguistics, where I thrived as a translator, interpreter, and educator. The allure of programming languages captivated me, leading to a newfound love for coding and the intricate web development landscape. Every coding challenge brings me joy and fuels my curiosity for innovative solutions.</p>
-<p>🚀 Let's collaborate and create something extraordinary together!</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 I'm based in Playa del Carmen, Mexico</li>
       <li>✉️ You can contact me at <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
