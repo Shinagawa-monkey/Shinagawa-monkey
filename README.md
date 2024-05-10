@@ -1,5 +1,5 @@
 <h1 style="text-wrap: balance;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
-<h2 style="text-wrap: balance;">Mern Stack Developer</h2>
+<h2 style="text-wrap: balance;">MERN Stack Developer</h2>
 
 <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" /> 
 <p style="text-wrap: pretty;">I'm a passionate MERN Stack Developer & Software Engineer with 4+ years of experience crafting robust backend and user-friendly frontend solutions. Currently exploring exciting side projects and constantly expanding my tech toolkit. Let's collaborate and create something extraordinary together!</p>
