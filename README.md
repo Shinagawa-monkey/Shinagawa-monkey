@@ -2,7 +2,7 @@
 <h2 style="text-wrap: balance;">MERN Stack Developer & Software Engineer</h2>
 
 <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" /> 
-<p style="text-wrap: pretty;">I'm a passionate MERN Stack Developer & Software Engineer with 4+ years of experience crafting robust backend and user-friendly frontend solutions. Currently exploring exciting side projects and constantly expanding my tech toolkit. Let's collaborate and create something extraordinary together!</p>
+<p style="text-wrap: pretty;">I'm a highly experienced MERN Stack Developer & Software Engineer with 4+ years of experience crafting robust backend and user-friendly frontend solutions. Currently exploring exciting side projects and constantly expanding my tech toolkit. Let's collaborate and create something extraordinary together!</p>
 <p style="text-wrap: pretty;">My tech journey began in linguistics, thriving as a translator, interpreter, and educator. The allure of programming languages captivated me, igniting a love for coding and web development challenges that fuel my curiosity for innovative solutions.</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 I'm based in Playa del Carmen, Mexico</li>
