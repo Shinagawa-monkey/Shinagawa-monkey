@@ -1,12 +1,12 @@
 <h1 style="text-wrap: balance;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
-<h2 style="text-wrap: balance;">Aspiring MERN Stack Developer</h2>
+<h2 style="text-wrap: balance;"> Aspiring MERN Stack Developer</h2>
 
-<img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" /> 
-<p style="text-wrap: pretty;">Crafting user-friendly web apps with a passion for clean code and intuitive experiences. Strong communication (linguistic background) ensures seamless project flow.</p> 
-<p style="text-wrap: pretty;">Continuously expanding my skillset, currently mastering Svelte and Python, focusing on Data Structures and Algorithms.</p> 
-<p style="text-wrap: pretty;">Let's collaborate! Open to exciting projects.</p>
+<!-- <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" />  -->
+<p style="text-wrap: pretty;">Crafting user-centric web apps with a passion for clean code and intuitive experiences. Strong communication (linguistic background) fosters seamless collaboration.</p> 
+<p style="text-wrap: pretty;">Continuously learning (Svelte, Python) to stay ahead of the curve. Open to exciting projects!</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 Location: Playa del Carmen, Mexico</li>
+      <li>🌐 Personal Website: <a href="https://elena-shatalova-portfolio.vercel.app/">Elena Shatalova's Developer Portfolio</a></li>
       <li>✉️ Email: <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
       <li>🚀 Current Project: <a href="https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/">DeFi DApp DBANK on ICP using Motoko</a></li>
       <li>🧠 Learning: Python; Data Structures and Algorithms</li>
