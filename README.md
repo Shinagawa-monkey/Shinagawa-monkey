@@ -2,7 +2,9 @@
 <h2 style="text-wrap: balance;">Aspiring MERN Stack Developer</h2>
 
 <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" /> 
-<p style="text-wrap: pretty;">Crafting user-friendly web apps with a passion for clean code and intuitive experiences. Strong communication (linguistic background) ensures seamless project flow. Fast learner, currently mastering Svelte and Python. Let's collaborate! Open to exciting projects.</p>
+<p style="text-wrap: pretty;">Crafting user-friendly web apps with a passion for clean code and intuitive experiences. Strong communication (linguistic background) ensures seamless project flow.</p> 
+<p style="text-wrap: pretty;">Continuously expanding my skillset, currently mastering Svelte and Python, focusing on Data Structures and Algorithms.</p> 
+<p style="text-wrap: pretty;">Let's collaborate! Open to exciting projects.</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 Location: Playa del Carmen, Mexico</li>
       <li>✉️ Email: <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
