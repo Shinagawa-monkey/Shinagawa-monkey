@@ -6,7 +6,7 @@
 <p style="text-wrap: pretty;">Continuously learning (Svelte, Python) to stay ahead of the curve. Open to exciting projects!</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 Location: Playa del Carmen, Mexico</li>
-      <li>🌐 Personal Website: <a href="https://elena-shatalova-portfolio.vercel.app/">Elena Shatalova's Developer Portfolio</a></li>
+      <li>🌐 Website: <a href="https://elena-shatalova-portfolio.vercel.app/">Elena Shatalova's Developer Portfolio</a></li>
       <li>✉️ Email: <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
       <li>🚀 Current Project: <a href="https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/">DeFi DApp DBANK on ICP using Motoko</a></li>
       <li>🧠 Learning: Python; Data Structures and Algorithms</li>
