@@ -1,4 +1,4 @@
-<h1 style="text-wrap: balance;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova - 🇲🇽</h1>
+<h1 style="text-wrap: balance;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
 <h2 style="text-wrap: balance;">Aspiring MERN Stack Developer</h2>
 
 <!-- <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" />  -->
