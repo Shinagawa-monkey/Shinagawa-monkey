@@ -3,7 +3,6 @@
 
 <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" /> 
 <p style="text-wrap: pretty;">Crafting user-friendly web apps with a passion for clean code and intuitive experiences. Strong communication (linguistic background) ensures seamless project flow. Fast learner, currently mastering Svelte and Python. Let's collaborate! Open to exciting projects.</p>
-<p style="text-wrap: pretty;">My tech journey began in linguistics, thriving as a translator, interpreter, and educator. The allure of programming languages captivated me, igniting a love for coding and web development challenges that fuel my curiosity for innovative solutions.</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 Location: Playa del Carmen, Mexico</li>
       <li>✉️ Email: <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
