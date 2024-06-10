@@ -2,7 +2,7 @@
 <h2 style="text-wrap: balance;">Aspiring MERN Stack Dev (Open to Work)</h2>
 
 <!-- <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" />  -->
-<p style="text-wrap: pretty;">Building user-friendly web apps with clean code & intuitive experiences. MERN Stack Master: React, Node.js, Express, MongoDB. Leveraging strong communication skills from my linguistic background to foster seamless collaboration and efficient teamwork.</p> 
+<p style="text-wrap: pretty;">Building user-friendly web apps with clean code & intuitive experiences. Leveraging strong communication skills from my linguistic background to foster seamless collaboration and efficient teamwork.</p> 
 <p style="text-wrap: pretty;">Continuously learning new technologies (Svelte, Python) to stay ahead of the curve.</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 Location: Playa del Carmen, Mexico</li>
