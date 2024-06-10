@@ -1,8 +1,8 @@
 <h1 style="text-wrap: balance;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
-<h2 style="text-wrap: balance;">Aspiring MERN Stack Developer</h2>
+<h2 style="text-wrap: balance;">Aspiring MERN Stack Dev (Open to Work)</h2>
 
 <!-- <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" />  -->
-<p style="text-wrap: pretty;">Crafting user-friendly web applications with a passion for clean code and intuitive experiences. Leveraging strong communication skills from my linguistic background to foster seamless collaboration and efficient teamwork. Continuously learning new technologies (Svelte, Python) to stay ahead of the curve.</p> 
+<p style="text-wrap: pretty;">Building user-friendly web apps with clean code & intuitive experiences. Leveraging strong communication skills from my linguistic background to foster seamless collaboration and efficient teamwork. Continuously learning new technologies (Svelte, Python) to stay ahead of the curve.</p> 
 <p style="text-wrap: pretty;">Open to exciting projects and eager to join a dynamic team!</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 Location: Playa del Carmen, Mexico</li>
@@ -10,7 +10,7 @@
       <li>✉️ Email: <a href="mailto:elenashatalova.it@gmail.com">elenashatalova.it@gmail.com</a></li>
       <li>🚀 Current Project: <a href="https://khnm5-qiaaa-aaaap-aam6a-cai.ic0.app/">DeFi DApp DBANK on ICP using Motoko</a></li>
       <li>🧠 Learning: Python; Data Structures and Algorithms</li>
-      <li>🤝 Open to collaborating on projects that will help expand my skill set and contribute to my growth as a developer.</li>
+      <li>🤝 Open to collaborating on projects that will help expand my skill set.</li>
     </ul>
 
 ### Skills
