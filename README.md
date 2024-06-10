@@ -1,10 +1,9 @@
 <h1 style="text-wrap: balance;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />My name is Elena Shatalova</h1>
-<h2 style="text-wrap: balance;">Aspiring MERN Stack Dev (Open to Work)</h2>
+<h2 style="text-wrap: balance;">Aspiring MERN/Full-Stack Stack Dev (Open to Work)</h2>
 
 <!-- <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" />  -->
 <p style="text-wrap: pretty;">Building user-centric web apps with a passion for clean code & intuitive experiences. Leveraging strong communication skills from my linguistic background to foster seamless collaboration and efficient teamwork.</p> 
-<p style="text-wrap: pretty;">Continuously learning new technologies (Svelte, Python) to stay ahead of the curve. Looking for a challenging MERN/Full-Stack developer position.
-</p>
+<p style="text-wrap: pretty;">Continuously learning new technologies (Svelte, Python) to stay ahead of the curve.</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 Location: Playa del Carmen, Mexico</li>
       <li>🌐 Website: <a href="https://elena-shatalova-portfolio.vercel.app/">Elena Shatalova's Developer Portfolio</a></li>
