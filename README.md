@@ -2,8 +2,9 @@
 <h2 style="text-wrap: balance;">Aspiring MERN Stack Dev (Open to Work)</h2>
 
 <!-- <img src="https://github.com/Shinagawa-monkey/Shinagawa-monkey/blob/main/octocat.png" align="right" width="320" />  -->
-<p style="text-wrap: pretty;">Building user-friendly web apps with clean code & intuitive experiences. Leveraging strong communication skills from my linguistic background to foster seamless collaboration and efficient teamwork.</p> 
-<p style="text-wrap: pretty;">Continuously learning new technologies (Svelte, Python) to stay ahead of the curve.</p>
+<p style="text-wrap: pretty;">Building user-centric web apps with a passion for clean code & intuitive experiences. Leveraging strong communication skills from my linguistic background to foster seamless collaboration and efficient teamwork.</p> 
+<p style="text-wrap: pretty;">Continuously learning new technologies (Svelte, Python) to stay ahead of the curve. Looking for a challenging MERN/Full-Stack developer position.
+</p>
     <ul style="text-wrap: pretty;">
       <li>🌍 Location: Playa del Carmen, Mexico</li>
       <li>🌐 Website: <a href="https://elena-shatalova-portfolio.vercel.app/">Elena Shatalova's Developer Portfolio</a></li>
